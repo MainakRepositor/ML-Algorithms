@@ -20,3 +20,32 @@ List of some top machine learning algorithms. Just give a dive and explore the w
 <hr>
 
 ## C. Clustering
+### 11. <a href=""> K-Mean Clustering</a>
+### 12. <a href=""> Heirirchical Clustering</a>
+### 13. <a href=""> Spectral Clustering</a>
+### 14. <a href=""> Agglomerative Clustering</a>
+
+<hr>
+
+## D. Reinforcement Learning
+### 15. <a href=""> Thomson Sampling</a>
+### 16. <a href=""> Upper Confidence Bound</a>
+### 17. <a href=""> Dimensionality Reduction</a>
+
+<hr>
+
+## E. Fast ML
+### 18. <a href=""> Extreme Gradient Boosting</a>
+### 19. <a href=""> Grid Search</a>
+### 20. <a href=""> K-fold Cross Validation</a>
+### 21. <a href=""> Cat Boost</a>
+### 22. <a href=""> Facebook Prophet</a>
+
+<hr>
+
+## F. Natural Language Processing
+### 23. <a href=""> Twitter Sentiment Analysis</a>
+### 24. <a href=""> Trump Rallies Sentiments</a>
+
+
+
