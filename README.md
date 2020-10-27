@@ -1,7 +1,7 @@
 # ML-Algorithms
 List of some top machine learning algorithms. Just give a dive and explore the world of ML.
 <br>
-<center><h2>INDEX</h2></center>
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/64016811/97308316-bff32780-1886-11eb-83ec-1ef507e287d1.jpg" /></div>
 <hr>
 
 ## A. Regressions
