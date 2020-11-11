@@ -31,7 +31,7 @@ List of some top machine learning algorithms. Just give a dive and explore the w
 <hr>
 
 ## D. Reinforcement Learning
-### 15. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/15.%20%20Thomson's_Sampling_.ipynb"> Thomson Sampling</a>
+### 15. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/15.%20Thompson's_Sampling_.ipynb"> Thompson Sampling</a>
 ### 16. <a href=""> Upper Confidence Bound</a>
 ### 17. <a href=""> Dimensionality Reduction</a>
 
