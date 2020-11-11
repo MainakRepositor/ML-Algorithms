@@ -37,18 +37,24 @@ List of some top machine learning algorithms. Just give a dive and explore the w
 
 <hr>
 
-## E. Fast ML
-### 18. <a href=""> Extreme Gradient Boosting</a>
-### 19. <a href=""> Grid Search</a>
-### 20. <a href=""> K-fold Cross Validation</a>
-### 21. <a href=""> Cat Boost</a>
-### 22. <a href=""> Facebook Prophet</a>
+## E. Association Rule Learning
+### 18. <a href=""> Apriori</a>
+### 19. <a href=""> Eclat</a>
 
 <hr>
 
-## F. Natural Language Processing
-### 23. <a href=""> Twitter Sentiment Analysis</a>
-### 24. <a href=""> Trump Rallies Sentiments</a>
+## F. Fast ML
+### 20. <a href=""> Extreme Gradient Boosting</a>
+### 21. <a href=""> Grid Search</a>
+### 22. <a href=""> K-fold Cross Validation</a>
+### 23. <a href=""> Cat Boost</a>
+### 24. <a href=""> Facebook Prophet</a>
+
+<hr>
+
+## G. Natural Language Processing
+### 25. <a href=""> Twitter Sentiment Analysis</a>
+### 26. <a href=""> Trump Rallies Sentiments</a>
 
 
 
