@@ -16,7 +16,7 @@ List of some top machine learning algorithms. Just give a dive and explore the w
 ### 5. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/5.%20Decision_Tree_Classifier.ipynb"> Decision tree classifier</a>
 ### 6. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/6.%20Random_Forest_Classifier.ipynb"> Random forest classifier</a>
 ### 7. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/7.%20Naive_Bayes_Classifier.ipynb"> Naive-Bayes classifier</a>
-### 8. <a href=""> K-Nearest Neighbour</a>
+### 8. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/8.%20K_Nearest_Neighbours.ipynb"> K-Nearest Neighbour</a>
 ### 9. <a href=""> Logistic regression classifier</a>
 ### 10. <a href="">Support Vector Machine</a>
 
