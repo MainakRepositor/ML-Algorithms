@@ -25,7 +25,7 @@ List of some top machine learning algorithms. Just give a dive and explore the w
 ## C. Clustering
 ### 11. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/11.%20K_Mean_Clustering.ipynb"> K-Mean Clustering</a>
 ### 12. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/12.%20Heirarchical_Clustering.ipynb"> Heirirchical Clustering</a>
-### 13. <a href=""> Spectral Clustering</a>
+### 13. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/Spectral_Clustering.ipynb"> Spectral Clustering</a>
 ### 14. <a href=""> Agglomerative Clustering</a>
 
 <hr>
