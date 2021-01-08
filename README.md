@@ -52,9 +52,7 @@ List of some top machine learning algorithms. Just give a dive and explore the w
 
 <hr>
 
-## G. Natural Language Processing
-### 25. <a href=""> Twitter Sentiment Analysis</a>
-### 26. <a href=""> Trump Rallies Sentiments</a>
+
 
 
 
