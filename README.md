@@ -32,19 +32,19 @@ List of some top machine learning algorithms. Just give a dive and explore the w
 
 ## D. Reinforcement Learning
 ### 15. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/15.%20Thompson's_Sampling_.ipynb"> Thompson Sampling</a>
-### 16. <a href=""> Upper Confidence Bound</a>
-### 17. <a href=""> Dimensionality Reduction</a>
+### 16. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/16.%20Upper_confidence_bound.ipynb"> Upper Confidence Bound</a>
+### 17. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/17.%20Dimensionality%20Reduction(PCA).ipynb"> Dimensionality Reduction</a>
 
 <hr>
 
 ## E. Association Rule Learning
-### 18. <a href=""> Apriori</a>
-### 19. <a href=""> Eclat</a>
+### 18. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/18.%20Apriori.ipynb"> Apriori</a>
+### 19. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/19.%20Eclat.ipynb"> Eclat</a>
 
 <hr>
 
 ## F. Fast ML
-### 20. <a href=""> Extreme Gradient Boosting</a>
+### 20. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/20.%20XG_Boost.ipynb"> Extreme Gradient Boosting</a>
 ### 21. <a href=""> Grid Search</a>
 ### 22. <a href=""> K-fold Cross Validation</a>
 ### 23. <a href=""> Cat Boost</a>
