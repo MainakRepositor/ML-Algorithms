@@ -2,8 +2,9 @@
 List of some top machine learning algorithms. Just give a dive and explore the world of ML.
 <br>
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/64016811/97396400-04290b00-190d-11eb-981a-d637790ce042.jpg" height=100% width=100%/></div>
-![Profile views](https://gpvc.arturio.dev/Naereen)
 <hr>
+
+![Profile views](https://gpvc.arturio.dev/Naereen)
 
 ## A. Regressions
 ### 1. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/1.%20Simple_Linear_Regression.ipynb"> Simple Linear Regression</a>
