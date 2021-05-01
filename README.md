@@ -45,14 +45,7 @@ List of some top machine learning algorithms. Just give a dive and explore the w
 
 <hr>
 
-## F. Fast ML
-### 20. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/20.%20XG_Boost.ipynb"> Extreme Gradient Boosting</a>
-### 21. <a href=""> Grid Search</a>
-### 22. <a href=""> K-fold Cross Validation</a>
-### 23. <a href=""> Cat Boost</a>
-### 24. <a href=""> Facebook Prophet</a>
-
-<hr>
+## Made with 💛 by Mainak Chaudhuri.
 
 
 
