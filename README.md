@@ -47,6 +47,8 @@ List of some top machine learning algorithms. Just give a dive and explore the w
 
 <hr>
 
+### 20. <a href="https://github.com/MainakRepositor/ML-Algorithms/blob/master/Cross_Validation.ipynb">Cross Validation</a>
+
 ## Made with 💛 by Mainak Chaudhuri.
 
 
